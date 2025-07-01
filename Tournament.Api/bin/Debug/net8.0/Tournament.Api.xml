@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tournament.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Tournament.Api.Controllers.GamesController.GetGames">
+            <summary>
+            Gets all games.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.GamesController.GetGame(System.Int32)">
+            <summary>
+            Gets a specific game by its ID.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.GamesController.PutGame(System.Int32,Tournament.Core.Entities.Game)">
+            <summary>
+            Updates an existing game.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.GamesController.PostGame(Tournament.Core.Entities.Game)">
+            <summary>
+            Creates a new game.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.GamesController.DeleteGame(System.Int32)">
+            <summary>
+            Deletes a game by ID.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.GamesController.PatchGameTitle(System.Int32,System.String)">
+            <summary>
+            Partially updates game title.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.GamesController.GetGamesByTitle(System.String)">
+            <summary>
+            Gets games that exactly match the given title.
+            </summary>
+            <param name="title">The title to search for.</param>
+            <returns>Games with an exact title match.</returns>
+        </member>
+        <member name="M:Tournament.Api.Controllers.TournamentsController.GetTournaments">
+            <summary>
+            Gets all tournaments.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.TournamentsController.GetTournament(System.Int32)">
+            <summary>
+            Gets a specific tournament by its ID.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.TournamentsController.PutTournament(System.Int32,Tournament.Core.Entities.Tournament)">
+            <summary>
+            Updates an existing tournament.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.TournamentsController.PostTournament(Tournament.Core.Entities.Tournament)">
+            <summary>
+            Creates a new tournament.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.TournamentsController.DeleteTournament(System.Int32)">
+            <summary>
+            Deletes a tournament by its ID.
+            </summary>
+        </member>
+        <member name="M:Tournament.Api.Controllers.TournamentsController.PatchTournamentTitle(System.Int32,System.String)">
+            <summary>
+            Updates only the title of a tournament (partial update).
+            </summary>
+        </member>
+    </members>
+</doc>

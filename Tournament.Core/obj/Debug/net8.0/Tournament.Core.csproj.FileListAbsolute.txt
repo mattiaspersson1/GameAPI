@@ -1,0 +1,11 @@
+C:\Users\astro\source\repos\Tournament.Core\bin\Debug\net8.0\Tournament.Core.deps.json
+C:\Users\astro\source\repos\Tournament.Core\bin\Debug\net8.0\Tournament.Core.dll
+C:\Users\astro\source\repos\Tournament.Core\bin\Debug\net8.0\Tournament.Core.pdb
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\Tournament.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\Tournament.Core.AssemblyInfoInputs.cache
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\Tournament.Core.AssemblyInfo.cs
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\Tournament.Core.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\Tournament.Core.dll
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\refint\Tournament.Core.dll
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\Tournament.Core.pdb
+C:\Users\astro\source\repos\Tournament.Core\obj\Debug\net8.0\ref\Tournament.Core.dll

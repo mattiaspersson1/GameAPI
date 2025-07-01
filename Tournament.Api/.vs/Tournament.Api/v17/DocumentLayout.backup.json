@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\data\\tournamentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\data\\repositories\\uow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\data\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\data\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\repositories\\iuow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\repositories\\itournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\repositories\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\entities\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\dto\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\dto\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\dto\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\dto\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\mappings\\tournamentmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:mappings\\tournamentmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:controllers\\tournamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210C80C0-B976-4568-BD3A-0C77715910C3}|..\\Tournament.Core\\Tournament.Core.csproj|c:\\users\\astro\\source\\repos\\tournament.core\\tournament.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\tournament.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:tournament.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\tournament.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:tournament.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|c:\\users\\astro\\source\\repos\\tournament.api\\tournament.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ED59753A-1E1C-46BA-84AC-A3E53833903F}|Tournament.Api.csproj|solutionrelative:tournament.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\tournament.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\tournament.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117DF268-FB7F-429B-A3DA-AB9ABA2EFE15}|..\\Tournament.Data\\Tournament.Data.csproj|c:\\users\\astro\\source\\repos\\tournament.data\\migrations\\20250701011620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TournamentDto.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\TournamentDto.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Dto\\TournamentDto.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\TournamentDto.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Dto\\TournamentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:08:35.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\GameDto.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Dto\\GameDto.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\GameDto.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Dto\\GameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:08:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\UpdateGameDto.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Dto\\UpdateGameDto.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\UpdateGameDto.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Dto\\UpdateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:12:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Entities\\Game.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:31:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Entities\\Tournament.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Entities\\Tournament.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Entities\\Tournament.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Entities\\Tournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:31:09.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Repositories\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Repositories\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Repositories\\IGameRepository.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Repositories\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:31:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITournamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Repositories\\ITournamentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Repositories\\ITournamentRepository.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Repositories\\ITournamentRepository.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Repositories\\ITournamentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:25:05.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUoW.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Repositories\\IUoW.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Repositories\\IUoW.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Repositories\\IUoW.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Repositories\\IUoW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:30:08.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Data\\Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "..\\Tournament.Data\\Data\\Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:44:38.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TournamentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\Repositories\\TournamentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Data\\Repositories\\TournamentRepository.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\Repositories\\TournamentRepository.cs",
+              "RelativeToolTip": "..\\Tournament.Data\\Data\\Repositories\\TournamentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:27:43.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\SeedData.cs",
+              "RelativeToolTip": "..\\Tournament.Data\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:48:06.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UoW.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\Repositories\\UoW.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Data\\Repositories\\UoW.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\Repositories\\UoW.cs",
+              "RelativeToolTip": "..\\Tournament.Data\\Data\\Repositories\\UoW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:32:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TournamentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\TournamentDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Data\\TournamentDbContext.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Data\\TournamentDbContext.cs",
+              "RelativeToolTip": "..\\Tournament.Data\\Data\\TournamentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:35:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Controllers\\GamesController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:53:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\CreateGameDto.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Dto\\CreateGameDto.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Dto\\CreateGameDto.cs",
+              "RelativeToolTip": "..\\Tournament.Core\\Dto\\CreateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:09:03.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:44:32.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TournamentMappings.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Mappings\\TournamentMappings.cs",
+              "RelativeDocumentMoniker": "Mappings\\TournamentMappings.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Mappings\\TournamentMappings.cs",
+              "RelativeToolTip": "Mappings\\TournamentMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:17:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:49:46.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TournamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Controllers\\TournamentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TournamentsController.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Controllers\\TournamentsController.cs",
+              "RelativeToolTip": "Controllers\\TournamentsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:59:02.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250701011620_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Migrations\\20250701011620_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Migrations\\20250701011620_Initial.cs",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Migrations\\20250701011620_Initial.cs",
+              "RelativeToolTip": "..\\Tournament.Data\\Migrations\\20250701011620_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T01:16:21.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T01:09:52.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T01:08:07.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tournament.Api.http",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Tournament.Api.http",
+              "RelativeDocumentMoniker": "Tournament.Api.http",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Tournament.Api.http",
+              "RelativeToolTip": "Tournament.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-01T00:55:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Tournament.Api",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Tournament.Api.csproj",
+              "RelativeDocumentMoniker": "Tournament.Api.csproj",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Tournament.Api.csproj",
+              "RelativeToolTip": "Tournament.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T00:26:31.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tournament.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Tournament.Core.csproj",
+              "RelativeDocumentMoniker": "..\\Tournament.Core\\Tournament.Core.csproj",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Core\\Tournament.Core.csproj",
+              "RelativeToolTip": "..\\Tournament.Core\\Tournament.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T21:30:36.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tournament.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Tournament.Api.csproj",
+              "RelativeDocumentMoniker": "Tournament.Api.csproj",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Api\\Tournament.Api.csproj",
+              "RelativeToolTip": "Tournament.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T21:27:34.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tournament.Data",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Tournament.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Tournament.Data.csproj",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Tournament.Data.csproj",
+              "RelativeToolTip": "..\\Tournament.Data\\Tournament.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T22:15:48.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tournament.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Tournament.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Tournament.Data\\Tournament.Data.csproj",
+              "ToolTip": "C:\\Users\\astro\\source\\repos\\Tournament.Data\\Tournament.Data.csproj",
+              "RelativeToolTip": "..\\Tournament.Data\\Tournament.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T21:33:55.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

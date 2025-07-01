@@ -1,0 +1,15 @@
+C:\Users\astro\source\repos\Tournament.Data\bin\Debug\net8.0\Tournament.Data.deps.json
+C:\Users\astro\source\repos\Tournament.Data\bin\Debug\net8.0\Tournament.Data.dll
+C:\Users\astro\source\repos\Tournament.Data\bin\Debug\net8.0\Tournament.Data.pdb
+C:\Users\astro\source\repos\Tournament.Data\bin\Debug\net8.0\Tournament.Core.dll
+C:\Users\astro\source\repos\Tournament.Data\bin\Debug\net8.0\Tournament.Core.pdb
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.csproj.AssemblyReference.cache
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.AssemblyInfoInputs.cache
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.AssemblyInfo.cs
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tourname.3469B5DF.Up2Date
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.dll
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\refint\Tournament.Data.dll
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\Tournament.Data.pdb
+C:\Users\astro\source\repos\Tournament.Data\obj\Debug\net8.0\ref\Tournament.Data.dll
