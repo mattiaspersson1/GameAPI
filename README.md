@@ -1,4 +1,5 @@
 Tournament API
+
 A .NET 8 Web API for managing tournaments and games.
 This project demonstrates clean architecture, the repository pattern, Unit of Work, AutoMapper, DTOs, PATCH support, and full CRUD operations.
 
