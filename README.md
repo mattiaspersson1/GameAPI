@@ -84,8 +84,3 @@ PUT    /api/Games/{id}
 PATCH  /api/Games/{id}
 DELETE /api/Games/{id}
 ```
-
-## Status
-
-All required features from the assignment (Steps 1–33) are implemented.  
-Optional features from the "Extra" section (filtering, sorting, pagination, etc.) are not yet included.
